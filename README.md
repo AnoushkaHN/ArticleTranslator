@@ -1,8 +1,6 @@
 # Article Translator 
 
-Drive Link - 
-
-The folder named "Article Translator" on Google Drive contains the report of this project along with a zip file conatining the code. Download the zip file onto your system, unzip and execute the code.
+[Drive Link](https://drive.google.com/drive/folders/1uBi3YmFzJgmwJXfD9v7abjCefMRV4Wxf?usp=sharing) - In this drive link there is a folder named "Article Translator" on Google Drive contains the report of this project along with a zip file conatining the code. Download the zip file onto your system, unzip and execute the code.
 
 
 ## Dataset
