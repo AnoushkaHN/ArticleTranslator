@@ -2,10 +2,11 @@
 
 **_NOTE:_** The code has been compressed into a ZIP file and uploaded to Google Drive due to its size exceeding GitHub's upload limits.
 
-[Drive Link](https://drive.google.com/drive/folders/1uBi3YmFzJgmwJXfD9v7abjCefMRV4Wxf?usp=sharing) - This drive link contains the report of this project along with a zip file conatining the code. Download the zip file onto your system, unzip and execute the code.
+[Drive Link](https://drive.google.com/drive/folders/1uBi3YmFzJgmwJXfD9v7abjCefMRV4Wxf?usp=sharing) - This Drive link contains the project report along with a ZIP file of the code. Please download the ZIP file to your system, extract its contents, and execute the code.
 
+## Contents of the ZIP file include:
 
-## Dataset
+### Dataset
 Folder name --> dataset
 
 Information file --> _about.txt
@@ -13,7 +14,7 @@ Information file --> _about.txt
 Main dataset file --> spa-eng.txt 
 
 
-## Article Translator Codes
+### Article Translator Codes
 Folder name --> MainTranslationCodes
 
 
@@ -31,7 +32,7 @@ Training code --> Spanish_to_English_Translation.ipynb
 Testing code --> Spanish_Model_Translations.ipynb
 
 
-## Flask application code for user input testing
+### Flask application code for user input testing
 Folder name --> frontEnd
 
 Contents:
