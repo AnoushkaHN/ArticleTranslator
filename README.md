@@ -1,6 +1,8 @@
 # Article Translator 
 
-[Drive Link](https://drive.google.com/drive/folders/1uBi3YmFzJgmwJXfD9v7abjCefMRV4Wxf?usp=sharing) - In this drive link there is a folder named "Article Translator" on Google Drive contains the report of this project along with a zip file conatining the code. Download the zip file onto your system, unzip and execute the code.
+**_NOTE:_** The code has been compressed into a ZIP file and uploaded to Google Drive due to its size exceeding GitHub's upload limits.
+
+[Drive Link](https://drive.google.com/drive/folders/1uBi3YmFzJgmwJXfD9v7abjCefMRV4Wxf?usp=sharing) - This drive link contains the report of this project along with a zip file conatining the code. Download the zip file onto your system, unzip and execute the code.
 
 
 ## Dataset
